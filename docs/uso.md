@@ -1,6 +1,7 @@
 # Uso
 
 ## Capturas
+![Imagen de uso de la aplicación](imgs/uso.jpg)
 
 ## Casos de uso
 Esta aplicación esta pensada para los siguientes usos:
